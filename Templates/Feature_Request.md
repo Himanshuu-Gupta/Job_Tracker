@@ -1,13 +1,12 @@
-#FeatureRequest.md
+# FeatureRequest.md
 
----
-name: Feature request
-about: Suggest an new feature for this project
+| Name                | About                                   |
+| ------------------- |:---------------------------------------:|
+| Feature Request     | Suggest an new feature for this project |
 
----
 
-##Summary
-One paragraph explanation of the feature.
+## Summary
+Summary of the feature
 
 ## Motivation
 What is the motivation behind the project?
