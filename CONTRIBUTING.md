@@ -21,8 +21,8 @@ Please note we have a code of conduct, please follow it in all your interactions
 1. Before creating a bug report, double check with the existing list if the bug is already reported.
 2. In the event of the bug not being reported, communicate the issue with the owners of this repository via any suitable method of communication (preferrably via email). Remember    to include as many details as possible including and not limiting to various test cases or scenarios that helped identify the issue. This information could help us resolve the    issue faster.
 3. If possible try shedding some light on:
-   a) How can the problem be reproduced?
-   b) Is this problem a recent observation?
-   c) What might have trigerred the problem?
-   d) Describe what action was expected and why?
-   e) If possible, include screenshots and gifs to illustrate the problem at hand. This helps us get a clearer idea about the bug and help resolve it quickly.
+   * a) How can the problem be reproduced?
+   * b) Is this problem a recent observation?
+   * c) What might have trigerred the problem?
+   * d) Describe what action was expected and why?
+   * e) If possible, include screenshots and gifs to illustrate the problem at hand. This helps us get a clearer idea about the bug and help resolve it quickly.
