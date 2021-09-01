@@ -10,4 +10,4 @@ List of contributors:
 - Sneha Aradhey
 - Shreyansh Prajapati
 - Ashwini Nayak
-- Suraj D M
+- Suraj Mallikarjuna Devatha
