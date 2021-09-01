@@ -23,6 +23,6 @@ Please note we have a code of conduct, please follow it in all your interactions
 3. If possible try shedding some light on:
    * How can the problem be reproduced?
    * Is this problem a recent observation?
-   * What might have trigerred the problem?
+   * What might have triggered the problem?
    * Describe what action was expected and why?
    * If possible, include screenshots and gifs to illustrate the problem at hand. This helps us get a clearer idea about the bug and help resolve it quickly.
