@@ -14,7 +14,7 @@ The functions implemented are -
 - decreasing_sort() : Sort the array in the decreasing order
 - count_frequency() : Count the frequency of each number in the array
 
-##Authors
+## Authors
 - Himanshu Gupta
 - Sneha Aradhey
 - Shreyansh Prajapati
