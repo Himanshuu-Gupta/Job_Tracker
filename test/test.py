@@ -19,7 +19,7 @@ def test_decreasing_sort():
 
 def test_count_frequency():
     arr = ArrayComputations(array=[1, 1, 1, 1, 4, 5, 6])
-    expected_result = [1, 4]
+    expected_result = {1:4,4:1,5:1,6:1}
     output = arr.count_frequency()
     assert expected_result == output, "count_frequency method failed"
 
