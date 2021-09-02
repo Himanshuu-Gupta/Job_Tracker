@@ -1,5 +1,3 @@
-from scipy import stats as s
-
 class ArrayComputations:
     def __init__(self, array):
         self.array = array
@@ -11,4 +9,10 @@ class ArrayComputations:
         return sorted(self.array, reverse=True)
 
     def count_frequency(self):
-        return [s.mode(self.array)[0][0], s.mode(self.array)[1][0]]
+        self.map_dict = {}
+        for i in self.array:
+            if self.map_dict.get(i):
+                self.map_dict[i] += 1
+            else:
+                self.map_dict[i] = 1
+        return self.map_dict
