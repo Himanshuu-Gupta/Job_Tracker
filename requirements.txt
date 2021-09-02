@@ -1,1 +1,1 @@
-pip install scipy
+scipy==1.7.1
