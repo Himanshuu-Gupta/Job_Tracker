@@ -3,7 +3,7 @@ currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentfram
 parentdir = os.path.dirname(currentdir)
 sys.path.insert(0, parentdir)
 
-from code.ArrayComputations import ArrayComputations
+from array_computation.ArrayComputations import ArrayComputations
 
 def test_increasing_sort():
     arr = ArrayComputations(array=[3,2,1])
